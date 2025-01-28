@@ -1,0 +1,176 @@
+Uri: https://freelanceai.io/
+File Name: F:\freelanceai.io\index.htm
+Content Type: text/html
+
+Uri: https://freelanceai.io/about-us-hero.svg
+File Name: F:\freelanceai.io\about-us-hero.svg
+Content Type: image/svg+xml
+
+Uri: https://freelanceai.io/android-chrome-192x192.png
+File Name: F:\freelanceai.io\android-chrome-192x192.png
+Content Type: image/png
+
+Uri: https://freelanceai.io/android-chrome-512x512.png
+File Name: F:\freelanceai.io\android-chrome-512x512.png
+Content Type: image/png
+
+Uri: https://freelanceai.io/apple-touch-icon.png
+File Name: F:\freelanceai.io\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://freelanceai.io/blur-prop-2.svg
+File Name: F:\freelanceai.io\blur-prop-2.svg
+Content Type: image/svg+xml
+
+Uri: https://freelanceai.io/blur-prop.svg
+File Name: F:\freelanceai.io\blur-prop.svg
+Content Type: image/svg+xml
+
+Uri: https://freelanceai.io/favicon-16x16.png
+File Name: F:\freelanceai.io\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://freelanceai.io/favicon-32x32.png
+File Name: F:\freelanceai.io\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://freelanceai.io/favicon.ico
+File Name: F:\freelanceai.io\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://freelanceai.io/header-bg-1.png
+File Name: F:\freelanceai.io\header-bg-1.png
+Content Type: image/png
+
+Uri: https://freelanceai.io/header-bg-2-mobile.svg
+File Name: F:\freelanceai.io\header-bg-2-mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://freelanceai.io/header-bg-2.svg
+File Name: F:\freelanceai.io\header-bg-2.svg
+Content Type: image/svg+xml
+
+Uri: https://freelanceai.io/header-bg-3.png
+File Name: F:\freelanceai.io\header-bg-3.png
+Content Type: image/png
+
+Uri: https://freelanceai.io/header-bg.svg
+File Name: F:\freelanceai.io\header-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://freelanceai.io/logo.svg
+File Name: F:\freelanceai.io\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://freelanceai.io/site.webmanifest
+File Name: F:\freelanceai.io\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://freelanceai.io/_next/image?url=%2F4NB4.gif&w=1080&q=75
+File Name: F:\freelanceai.io\_next\4NB4-4.gif
+Content Type: image/gif
+
+Uri: https://freelanceai.io/_next/image?url=%2F4NB4.gif&w=1200&q=75
+File Name: F:\freelanceai.io\_next\4NB4-5.gif
+Content Type: image/gif
+
+Uri: https://freelanceai.io/_next/image?url=%2F4NB4.gif&w=1920&q=75
+File Name: F:\freelanceai.io\_next\4NB4-6.gif
+Content Type: image/gif
+
+Uri: https://freelanceai.io/_next/image?url=%2F4NB4.gif&w=2048&q=75
+File Name: F:\freelanceai.io\_next\4NB4-7.gif
+Content Type: image/gif
+
+Uri: https://freelanceai.io/_next/image?url=%2F4NB4.gif&w=3840&q=75
+File Name: F:\freelanceai.io\_next\4NB4.gif
+Content Type: image/gif
+
+Uri: https://freelanceai.io/_next/image?url=%2F4NB4.gif&w=640&q=75
+File Name: F:\freelanceai.io\_next\4NB4-1.gif
+Content Type: image/gif
+
+Uri: https://freelanceai.io/_next/image?url=%2F4NB4.gif&w=750&q=75
+File Name: F:\freelanceai.io\_next\4NB4-2.gif
+Content Type: image/gif
+
+Uri: https://freelanceai.io/_next/image?url=%2F4NB4.gif&w=828&q=75
+File Name: F:\freelanceai.io\_next\4NB4-3.gif
+Content Type: image/gif
+
+Uri: https://freelanceai.io/_next/image?url=%2Fchallenges-hero.png&w=1080&q=75
+File Name: F:\freelanceai.io\_next\challenges-hero.png
+Content Type: image/png
+
+Uri: https://freelanceai.io/_next/image?url=%2Fchallenges-hero.png&w=640&q=75
+File Name: F:\freelanceai.io\_next\challenges-hero-1.png
+Content Type: image/png
+
+Uri: https://freelanceai.io/_next/image?url=%2Frevenue-growth-hero.png&w=1200&q=75
+File Name: F:\freelanceai.io\_next\revenue-growth-hero.png
+Content Type: image/png
+
+Uri: https://freelanceai.io/_next/image?url=%2Frevenue-growth-hero.png&w=640&q=75
+File Name: F:\freelanceai.io\_next\revenue-growth-hero-1.png
+Content Type: image/png
+
+Uri: https://freelanceai.io/_next/static/chunks/4bd1b696-d7c798f9be95a770.js
+File Name: F:\freelanceai.io\_next\static\chunks\4bd1b696-d7c798f9be95a770.js
+Content Type: application/javascript
+
+Uri: https://freelanceai.io/_next/static/chunks/517-60989e1a22754c31.js
+File Name: F:\freelanceai.io\_next\static\chunks\517-60989e1a22754c31.js
+Content Type: application/javascript
+
+Uri: https://freelanceai.io/_next/static/chunks/754-bdde0113218de8a3.js
+File Name: F:\freelanceai.io\_next\static\chunks\754-bdde0113218de8a3.js
+Content Type: application/javascript
+
+Uri: https://freelanceai.io/_next/static/chunks/app/page-9e57ddfdd1bbf6eb.js
+File Name: F:\freelanceai.io\_next\static\chunks\app\page-9e57ddfdd1bbf6eb.js
+Content Type: application/javascript
+
+Uri: https://freelanceai.io/_next/static/chunks/main-app-a849309caff0f7ba.js
+File Name: F:\freelanceai.io\_next\static\chunks\main-app-a849309caff0f7ba.js
+Content Type: application/javascript
+
+Uri: https://freelanceai.io/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: F:\freelanceai.io\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://freelanceai.io/_next/static/chunks/webpack-c164548d6c5a5e63.js
+File Name: F:\freelanceai.io\_next\static\chunks\webpack-c164548d6c5a5e63.js
+Content Type: application/javascript
+
+Uri: https://freelanceai.io/_next/static/css/9e93bcd8c0f70ba3.css
+File Name: F:\freelanceai.io\_next\static\css\9e93bcd8c0f70ba3.css
+Content Type: text/css
+
+Uri: https://freelanceai.io/_next/static/media/26a46d62cd723877-s.woff2
+File Name: F:\freelanceai.io\_next\static\media\26a46d62cd723877-s.woff2
+Content Type: font/woff2
+
+Uri: https://freelanceai.io/_next/static/media/55c55f0601d81cf3-s.woff2
+File Name: F:\freelanceai.io\_next\static\media\55c55f0601d81cf3-s.woff2
+Content Type: font/woff2
+
+Uri: https://freelanceai.io/_next/static/media/581909926a08bbc8-s.woff2
+File Name: F:\freelanceai.io\_next\static\media\581909926a08bbc8-s.woff2
+Content Type: font/woff2
+
+Uri: https://freelanceai.io/_next/static/media/6d93bde91c0c2823-s.woff2
+File Name: F:\freelanceai.io\_next\static\media\6d93bde91c0c2823-s.woff2
+Content Type: font/woff2
+
+Uri: https://freelanceai.io/_next/static/media/97e0cb1ae144a2a9-s.woff2
+File Name: F:\freelanceai.io\_next\static\media\97e0cb1ae144a2a9-s.woff2
+Content Type: font/woff2
+
+Uri: https://freelanceai.io/_next/static/media/a34f9d1faa5f3315-s.p.woff2
+File Name: F:\freelanceai.io\_next\static\media\a34f9d1faa5f3315-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://freelanceai.io/_next/static/media/df0a9ae256c0569c-s.woff2
+File Name: F:\freelanceai.io\_next\static\media\df0a9ae256c0569c-s.woff2
+Content Type: font/woff2
+
